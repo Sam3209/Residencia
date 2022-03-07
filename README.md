@@ -1,2 +1,0 @@
-# Residencia
-Proyecto Residencia
